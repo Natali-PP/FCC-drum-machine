@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Damion|Turret+Road:400,800&display=swap');
+body{
+  margin:0;
+  padding:0;
+  color:white;
+  
+}
+
+.title{
+  font-family: 'Turret Road', cursive;
+  color: #EE91AE;
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: white; 
+  transform: skewY(-9deg);
+  text-shadow: 0 0 23px #FF0000, 0 0 5px #0000FF; 
+  font-size: 2.5rem;
+  text-align: left;
+  padding-left: 1rem;
+                 
+}
+
+#display{
+  margin-top: 3rem;
+  text-align: center;
+  font-family: 'Damion', cursive;
+  font-size: 2.25rem;
+  color: #00E6F1;
+  
+  text-shadow: 0 0 23px #FF0000, 0 0 5px #0000FF;  
+}
+/* .center-grid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+} */
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.158);
+  box-shadow: 10px 50px 20px rgba(0, 0, 0, 0.158) ;
+  margin-top:3rem;
+  font-family: 'Turret Road', cursive;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  padding:0;
+  cursor: pointer;
+  text-shadow: 0 0 10px #CA1CA3, 1px 10px 10px #CA1CA3;
+}
