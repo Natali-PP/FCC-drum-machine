@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FCC-drum-machine/static/css/main.9f14da9b.chunk.css",
+    "main.js": "/FCC-drum-machine/static/js/main.4e0fe346.chunk.js",
+    "main.js.map": "/FCC-drum-machine/static/js/main.4e0fe346.chunk.js.map",
+    "runtime-main.js": "/FCC-drum-machine/static/js/runtime-main.f8c6bce8.js",
+    "runtime-main.js.map": "/FCC-drum-machine/static/js/runtime-main.f8c6bce8.js.map",
+    "static/js/2.780f6781.chunk.js": "/FCC-drum-machine/static/js/2.780f6781.chunk.js",
+    "static/js/2.780f6781.chunk.js.map": "/FCC-drum-machine/static/js/2.780f6781.chunk.js.map",
+    "index.html": "/FCC-drum-machine/index.html",
+    "precache-manifest.b4972cc8bed57ed248563cbc747ee9be.js": "/FCC-drum-machine/precache-manifest.b4972cc8bed57ed248563cbc747ee9be.js",
+    "service-worker.js": "/FCC-drum-machine/service-worker.js",
+    "static/css/main.9f14da9b.chunk.css.map": "/FCC-drum-machine/static/css/main.9f14da9b.chunk.css.map",
+    "static/media/index.css": "/FCC-drum-machine/static/media/synthwave-3941721_1920.c99c487a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c6bce8.js",
+    "static/js/2.780f6781.chunk.js",
+    "static/css/main.9f14da9b.chunk.css",
+    "static/js/main.4e0fe346.chunk.js"
+  ]
+}
